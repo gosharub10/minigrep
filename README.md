@@ -1,4 +1,4 @@
-This is a simple cli application that searches for a substring in a file and outputs it to another file or console
+This is a simple cli application that searches for a substring in a file and outputs it to another file or console \n
 First of all you need to write in conosle 
 ****cargo run -- text sapmle.txt****
 
